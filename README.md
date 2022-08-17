@@ -35,7 +35,7 @@ O Html foi criado pelo Tim Berners-lee, quando ele viu a necessidade de comparti
 1° - src (obrigatório) - guarda o caminho da imagem <br>
 2° - alt (recomendado) - mostra a descrição da foto quando ela não é carregada <br>
 `<img src= "Localização da imagem" alt= "Descrição da Imagem">`
-
+---
 ### FAVICON
 
 ✔️Favicon = icone localizado na guia do site (ico)
