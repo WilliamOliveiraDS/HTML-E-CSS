@@ -44,6 +44,7 @@ O Html foi criado pelo Tim Berners-lee, quando ele viu a necessidade de comparti
 ✔️Há duas formas de colocar o comando no VSCode: <br>
 `link:favicon`<br>
  `<link rel="shortcut icon" href="local do icone" type="image/x-icon">` <br>
+
 ---
 ### Como organizar listas com html
 
