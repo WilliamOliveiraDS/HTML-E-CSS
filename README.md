@@ -42,8 +42,8 @@ O Html foi criado pelo Tim Berners-lee, quando ele viu a necessidade de comparti
 <a href="https://iconarchive.com/" target = "_blank" > Download dos ícones </a> <br>
 <a href="https://favicon.io/" target = "_blank">  Converter PNG pra ícone</a> <br>
 ✔️Há duas formas de colocar o comando no VSCode: <br>
-<ol> `link:favicon`
-  <ol> `<link rel="shortcut icon" href="local do icone" type="image/x-icon">`
+<ol> `link:favicon`<br>
+<ol> `<link rel="shortcut icon" href="local do icone" type="image/x-icon">` <br>
 ---
 ### Como organizar listas com html
 
