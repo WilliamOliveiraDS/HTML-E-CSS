@@ -1,7 +1,7 @@
 # HTML-E-CSS
 Alguns comandos e noções básicas sobre HTML5 e CSS3
 
-# <h1 align="center"> 💻HTML_CSS_DIO💻 </h1>
+# <h1 align="center"> 💻HTML & CSS - Guanabara💻 </h1>
 Anotações das aulas do Bootcamp da Digital Innovation One
 
 ## 📖 Um Pouco da História
