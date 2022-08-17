@@ -34,7 +34,16 @@ O Html foi criado pelo Tim Berners-lee, quando ele viu a necessidade de comparti
 ✔️O elemento `<img>` possui apenas dois atributos próprios <br>
 1° - src (obrigatório) - guarda o caminho da imagem <br>
 2° - alt (recomendado) - mostra a descrição da foto quando ela não é carregada <br>
+`<img src= "Localização da imagem" alt= "Descrição da Imagem">`
 
+### FAVICON
+
+✔️Favicon = icone localizado na guia do site (ico)
+<a href="https://iconarchive.com/" target = "_blank" > Download dos ícones </a> <br>
+<a href="https://favicon.io/" target = "_blank">  Converter PNG pra ícone</a> <br>
+✔️Há duas formas de colocar o comando no VSCode: <br>
+<ol> `link:favicon`
+  <ol> `<link rel="shortcut icon" href="local do icone" type="image/x-icon">`
 ---
 ### Como organizar listas com html
 
